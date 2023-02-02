@@ -13,12 +13,12 @@ module.exports = {
       url: 'https://github.com/dheerajbarnwal',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/dheerajbarnwal',
+      name: 'Leetcode',
+      url: 'https://leetcode.com/delta_x/',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/dheerajbarnwal',
+      name: 'HackerRank',
+      url: 'https://www.hackerrank.com/dheerajraaj',
     },
     {
       name: 'Linkedin',
