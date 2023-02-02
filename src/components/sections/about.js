@@ -133,7 +133,6 @@ const About = () => {
     'Github',
     'MySQL',
   ];
-
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -142,25 +141,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Highly skilled software developer with 7+ years of experience in Java and SpringBoot.
-              Proven track record of delivering high-quality software solutions that meet project
-              requirements and exceed customer expectations. Strong understanding of software
-              development methodologies and techniques, and a passion for staying current with new
-              technologies and trends.
+              Highly skilled Software Backend Developer with over <b><span style={{color: '#64ffda'}}>7+ years of experience</span></b> in designing, developing, 
+              and maintaining server-side applications. Proficient in <b><span style={{color: '#64ffda'}}>Java, SpringBoot</span></b> and various database 
+              management systems such as MySQL, MongoDB. Adept at creating and implementing APIs, ensuring 
+              data security and scalability, and collaborating with front-end developers to create a seamless 
+              user experience.Proven track record of delivering high-performance and reliable systems, demonstrated
+              by increased application efficiency and user satisfaction.
             </p>
 
             <p>
-              Work Experience: Software Developer, ABC Company, 2015-Present - Collaborated with
-              cross-functional teams to design, develop, and implement complex software solutions
-              using Java and SpringBoot. - Contributed to the development of several
-              high-performance, scalable applications that achieved significant increases in
-              efficiency and user satisfaction. - Worked closely with project managers and
-              stakeholders to understand project requirements and develop solutions that met
-              business needs.
-            </p>
-
-            <p>
-              Education: Bachelor of Technology in Computer Science, NIT Jamshedpur, 2011-2015 -
+            <b><span style={{color: '#64ffda'}}>Bachelor of Technology in Computer Science, NIT Jamshedpur</span></b>, 2011-2015 -
               Graduated with honors, with a focus on software development and programming. -
               Developed a deep understanding of software development methodologies, algorithms, and
               data structures. - Participated in several extracurricular activities and projects
@@ -191,5 +181,6 @@ const About = () => {
     </StyledAboutSection>
   );
 };
+
 
 export default About;

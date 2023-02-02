@@ -1,5 +1,11 @@
 module.exports = {
   email: 'dheerajraaj2@gmail.com',
+  siteTitle: 'Dheeraj Barnwal | Software Developer',
+  siteUrl: 'https://dheerajbarnwal.github.io/',
+  siteLanguage: 'en_US',
+  name: 'Dheeraj Barnwal',
+  location: 'Bengaluru, India',
+  github: 'https://github.com/dheerajbarnwal',
 
   socialMedia: [
     {

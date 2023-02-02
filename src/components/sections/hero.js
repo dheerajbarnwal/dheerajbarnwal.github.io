@@ -66,14 +66,15 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hi, My name is</h1>;
   const two = <h2 className="big-heading">Dheeraj Barnwal.</h2>;
   const three = <h3 className="big-heading">I build, Eat, Sleep and Repeat.</h3>;
   const four = (
     <>
       <p>
-        I'm an Bengaluru,India based software developer with a goal-driven creative mindset and
-        passion for learning and innovating. Currently working as a Software Developer at{' '}
+        Software Backend Developer seeking challenging role to utilize skills in server-side development 
+        and contribute to organizational success.
+        Currently working as a Software Developer at{' '}
         <a href="https://www.booking.com/" target="_blank" rel="noreferrer">
           Booking.com
         </a>
