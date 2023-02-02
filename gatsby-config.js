@@ -5,7 +5,7 @@ module.exports = {
     title: 'Dheeraj Barnwal',
     description:
       'I am an Bengaluru,India based software developer with a goal-driven creative mindset and passion for learning and innovating.',
-    siteUrl: 'abc.com', // No trailing slash allowed!
+    siteUrl: 'https://dheerajbarnwal.github.io/', // No trailing slash allowed!
     //image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@dheerajbarnwal',
   },
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        //icon: 'src/images/logo.png',
+        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
