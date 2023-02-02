@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2021-01-01","title":"Lead Service","tech":["SpringBoot","Java","Mongo"],"github":"https://abc.com","external":"https://abc.com"},"html":"<p>Simple weather app made with Node.js, Express, and Heroku. Utilized the OpenWeatherMap API and Google Maps API.</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2009693873","2031412112","3303540520","3825832676"]}

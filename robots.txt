@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dheerajbarnwal.github.io/sitemap-index.xml
+Host: https://dheerajbarnwal.github.io

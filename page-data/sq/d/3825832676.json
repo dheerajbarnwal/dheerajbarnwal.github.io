@@ -1,0 +1,1 @@
+{"data":{"projects":{"edges":[{"node":{"frontmatter":{"title":"Lead Service","tech":["SpringBoot","Java","Mongo"],"github":"https://abc.com","external":"https://abc.com"},"html":"<p>Simple weather app made with Node.js, Express, and Heroku. Utilized the OpenWeatherMap API and Google Maps API.</p>"}}]}}}
