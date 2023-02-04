@@ -18,15 +18,15 @@ module.exports = {
     },
     {
       name: 'HackerRank',
-      url: 'https://www.hackerrank.com/dheerajraaj',
+      url: 'https://www.hackerrank.com/dheerajbarnwal',
+    },
+    {
+      name: 'GeeksForGeeks',
+      url: 'https://auth.geeksforgeeks.org/user/delta_x',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/dheerajbarnwal',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/dheerajbarnwal',
     },
   ],
 
